@@ -1,7 +1,7 @@
 # Please do NOT change any name of the variables, including the symbol "." afterwards
 # Each variable name should take up 10 spaces
 #
-hadr_flag.    3       ! 1 - pure fragmentation
+hadr_flag.    1       ! 1 - pure fragmentation
                       ! 2 - pure recombination to D0 and D+
                       ! 3 - frag. + recomb. (including Ds not yet)
 HQid......    4       ! Heavy quark flavor: 4-charm; 5-beauty.
